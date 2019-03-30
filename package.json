@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "description": "ffmpeg binaries",
   "main": "index.js",
-  "author": "Hackzzila <zach@hackzzila.com>",
+  "author": "BannerBomb <BannerBomb55@gmail.com>",
   "scripts": {
     "test": "eslint *.js",
     "install": "node install"
@@ -23,9 +23,9 @@
     "decompress-unzip": "^4.0.1"
   },
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.10.0"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
   },
   "repository": {
     "type": "git",
