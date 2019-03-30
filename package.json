@@ -1,6 +1,6 @@
 {
   "name": "ffmpeg-node-binaries",
-  "version": "4.0.1",
+  "version": "4.0.3",
   "description": "ffmpeg binaries",
   "main": "index.js",
   "author": "BannerBomb <BannerBomb55@gmail.com>",
