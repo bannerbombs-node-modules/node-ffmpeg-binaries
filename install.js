@@ -55,7 +55,7 @@ if (process.platform === 'win32') {
   switch (process.arch) {
     case 'x64':
       //get('https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-64bit-static.tar.xz', callback);
-      get('https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz', callback);
+      get('https://www.johnvansickle.com/ffmpeg/old-releases/ffmpeg-4.0.3-64bit-static.tar.xz', callback);
       break;
     case 'ia32':
       get('https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-32bit-static.tar.xz', callback);
